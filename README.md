@@ -1,2 +1,2 @@
-# Fundamentos-de-Programaci-n
+# Fundamentos-de-Programación
 Tareas de clases
